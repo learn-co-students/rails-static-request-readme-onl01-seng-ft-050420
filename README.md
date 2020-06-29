@@ -108,7 +108,7 @@ If you receive this error:
 
 `Could not find an executable ["phantomjs"] on your path.`
 
-You'll need to install PhantomJS on your computer before the tests will work. 
+You'll need to install PhantomJS on your computer before the tests will work.
 
 For Mac users, run the following:
 
