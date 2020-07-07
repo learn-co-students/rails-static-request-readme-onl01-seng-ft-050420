@@ -1,3 +1,2 @@
 module ApplicationHelper
-    test
 end
